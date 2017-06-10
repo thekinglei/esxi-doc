@@ -35,6 +35,9 @@ VMware WorkStation Pro：安装自己主机客户端使用
 ，这个是比之前vsphere clinet5.5要强一点的（只支持从workstation到 esxi单向），此为优点
 但是凭空多一个Vmware vCenter converter Standalone 中间工具，安装操作都更麻烦，此为缺点
 
+7、下载 vsphere web client：https://my.vmware.com/group/vmware/details?downloadGroup=WEBCLIENTSDK60U2&productId=491
+参看官网文档：http://pubs.vmware.com/vsphere-60/index.jsp#com.vmware.vcli.getstart.doc/cli_install.4.7.html#991936
+
 
 
 因此，总结如下，如果么有特别要使用的功能，建议安装esxi5.5或者5.6，操作更方便实用；
