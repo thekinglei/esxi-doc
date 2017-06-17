@@ -38,7 +38,7 @@ VMware WorkStation Pro：安装自己主机客户端使用
 7、下载 vsphere web client：https://my.vmware.com/group/vmware/details?downloadGroup=WEBCLIENTSDK60U2&productId=491
 参看官网文档：http://pubs.vmware.com/vsphere-60/index.jsp#com.vmware.vcli.getstart.doc/cli_install.4.7.html#991936
 
-8、安装vcenter（windows server 2008企业版，不要安装标准版）时，提示要安装 windows 2008 sp2 ，下载标准的64位，请不要关闭防火墙等，其他都保持默认配置；
+8、安装vcenter（windows server 2008企业版，不要安装标准版）时，提示要安装 windows 2008 sp2 ，下载标准的64位，请不要关闭防火墙等，其他都保持默认配置；通过百度google等搜索，在顶部的搜索结果中一般是官网下载地址，包括操作系统镜像，sp2安装包，vcenter官网只要6.5版本免费下载，可以去百度云盘下载
 
 因此，总结如下，如果么有特别要使用的功能，建议安装esxi5.5或者5.6，操作更方便实用；
 
