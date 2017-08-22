@@ -46,3 +46,5 @@ VMware WorkStation Pro：安装自己主机客户端使用
 
 标注：win10家庭版不支持远程，又一个坑！！！
 
+9、esxi 6.0.0 license  
+0U0QJ-FR1EP-KZQN9-J1C74-23P5R  
