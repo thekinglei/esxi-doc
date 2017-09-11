@@ -50,3 +50,6 @@ vcenter安装：安装好esxi主机后，从浏览器输入 esxi主机IP，网�
 
 9、esxi 6.0.0 license  
 0U0QJ-FR1EP-KZQN9-J1C74-23P5R  
+
+10、vcenter注册机  
+vcenter注册机：VMware VC6 Serial Generator，见本仓库同名exe程序，经本人验证好用
