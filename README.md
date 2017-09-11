@@ -41,7 +41,8 @@ VMware WorkStation Pro：安装自己主机客户端使用
 8、安装vcenter（windows server 2008企业版，不要安装标准版）时，提示要安装 windows 2008 sp2 ，下载标准的64位，请不要关闭防火墙等，其他都保持默认配置；通过百度google等搜索，在顶部的搜索结果中一般是官网下载地址，包括操作系统镜像，sp2安装包，vcenter官网只要6.5版本免费下载，可以去百度云盘下载
   另外，windows2008 安装vcenter是iso格式，需要安装daemon-tools，这个通过官网或百度下载的无法安装，可以先安装腾讯软件关键，从里边搜索daemon，找一个安装即可（360的软件管家下载的daemon也不可安装，windows2008好坑），安装deamon 过程中可能要求安装.net framework3或者4的版本，安装即可
 
-vcenter安装：安装好esxi主机后，从浏览器输入 esxi主机IP，网页上会显示出下载vcenter的链接，点击链接进行下载即可获取vcenter
+vcenter安装：安装好esxi主机后，从浏览器输入 esxi主机IP，网页上会显示出下载vcenter的链接，点击链接进行下载即可获取vcenter  
+我安装版本为：VMware-VIM-all-6.5.0-4944578
 
 因此，总结如下，如果么有特别要使用的功能，建议安装esxi5.5或者5.6，操作更方便实用；
 
