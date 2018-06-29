@@ -53,3 +53,8 @@ vcenter安装：安装好esxi主机后，从浏览器输入 esxi主机IP，网�
 
 10、vcenter注册机  
 vcenter注册机：VMware VC6 Serial Generator，见本仓库同名exe程序，经本人验证好用
+
+
+11、vcenter安装比较麻烦，可以安装vcsa（vCenter Server Virtual Appliance）  
+参考百科：https://baike.baidu.com/item/Vcenter/7474684?fr=aladdin  
+安装简单，并且具备基础的vcenter功能，除非是超大集群的虚拟机管理，一般vcas就够用
