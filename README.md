@@ -58,3 +58,6 @@ vcenter注册机：VMware VC6 Serial Generator，见本仓库同名exe程序，�
 11、vcenter安装比较麻烦，可以安装vcsa（vCenter Server Virtual Appliance）  
 参考百科：https://baike.baidu.com/item/Vcenter/7474684?fr=aladdin  
 安装简单，并且具备基础的vcenter功能，除非是超大集群的虚拟机管理，一般vcas就够用
+
+12、安装好esxi操作系统的主机，在上边安装虚拟机时，可以试用iso操作系统镜像安装，在其上的虚拟机关机后，可通过导出OVF模板的形式，
+将虚拟机导出成压缩的模板，然后通过登录vSphere client左上角 “文件”-> "部署OVF模板"方式进行新的复制安装
